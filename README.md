@@ -8,8 +8,8 @@ https://maresoft365.github.io
 
 ## 项目结构
 maresoft365.github.io/
-├── index.html
-└── README.md
+--index.html
+--README.md
 
 ## 开源协议
 MIT
